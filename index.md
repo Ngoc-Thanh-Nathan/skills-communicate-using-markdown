@@ -27,6 +27,9 @@ void CLK_Setup(){
   TCC0->CTRLA.bit.ENABLE = 1;
   while (TCC0->SYNCBUSY.bit.ENABLE);
 }
-
-
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [ ] Commencer le Git IPGP
